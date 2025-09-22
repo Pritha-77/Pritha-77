@@ -1,7 +1,8 @@
-👋 Hi, I'm Pritha Saha
+## 👋 Hi, I'm Pritha Saha
 
 🎓 PhD Scholar in Biotechnology | 🧬 Computational & Molecular Biologist | 📊 Genomic Data Analyst
 
+---
 Welcome to my GitHub! I work at the intersection of computational biology, genomics, and molecular biology, with a strong focus on NGS data analysis, transcriptomics, and drug discovery. My research explores PPARγ signaling, cancer biology, and gene regulation, integrating bioinformatics, systems biology, and wet-lab validation.
 
 ---
@@ -49,7 +50,6 @@ Welcome to my GitHub! I work at the intersection of computational biology, genom
 
 ## ✨ Let’s Connect!
 
-* 💻 GitHub: [Pritha-77](https://github.com/Pritha-77)
 * 🔗 LinkedIn: [Pritha Saha](https://www.linkedin.com/in/pritha-saha7/)
 * 📖 ResearchGate: [Pritha Saha](https://www.researchgate.net/profile/Pritha-Saha-3?ev=hdr_xprf)
 * 🌐 Personal Site: [Portfolio](https://pritha-saha-66eg8ty.gamma.site/)

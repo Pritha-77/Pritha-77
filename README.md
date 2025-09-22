@@ -39,7 +39,7 @@ Welcome to my GitHub! I work at the intersection of computational biology, genom
 
 ## 💬 Ask Me About
 
-* Best practices for **RNA-Seq/ChIP-Seq/ATAC-Seq data analysis**
+* Best practices for **RNA-Seq/ChIP-Seq/WGS-WES data analysis**
 * Building reproducible **bioinformatics pipelines** in R & Python
 * Multi-omics approaches for **cancer biology & gene regulation**
 * Protein structure modeling and **computational drug discovery**
